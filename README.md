@@ -1,5 +1,7 @@
 # Supervised_Regression_SalaryPrediction
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dr1FTQ2x9gWbMyd3GCCwhZY9fm6I4Y5q?usp=sharing)
+
 ## Project Portfolio Exploratory Data Analysis
 Exploratory Data Analysis (EDA) is a crucial first step in any data analysis project. EDA can help in digging deeper into the dataset, discovering hidden patterns, and understanding the overall characteristics of the data. Exploratory Data Analysis (EDA) is the first step in this salary prediction project. This project will present EDA results that include data visualization and data analysis along with report insights. This project aims to predict a person's salary using regression-based supervised learning techniques. The analysis is done by applying several regression models to the salary_data.csv dataset.
 
